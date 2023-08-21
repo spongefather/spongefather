@@ -4,11 +4,11 @@
 
 [chart,pie,target="develop os",opt="title=个人开发操作系统使用"]
 --
-windows 11,  12, blue
+Windows 11,  12, blue
 centOS,  3, red
 Ubuntu,  3, green
 wsl2,  6, yellow
-macos,  2
+macOS,  2, green
 --
 
 == Java 
