@@ -8,4 +8,4 @@
 
 == Front-end 
 
-> such as flutter Vue React JavaFX
+> such as Flutter, Vue, React, JavaFX
