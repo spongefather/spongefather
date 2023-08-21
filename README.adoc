@@ -1,6 +1,11 @@
 = Software development exercise
 
+> Mainly developed in Java language
+
 == Backend
+
+> Development based on the Spring framework
 
 == Front-end 
 
+> such as flutter Vue React JavaFX
