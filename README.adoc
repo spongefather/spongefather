@@ -1,16 +1,6 @@
-= 全栈开发
+= Software development exercise
 
-== 操作系统使用
+== Backend
 
-[chart,pie,target="develop os",opt="title=个人开发操作系统使用"]
---
-Windows 11,  12, blue
-centOS,  3, red
-Ubuntu,  3, green
-wsl2,  6, yellow
-macOS,  2, green
---
+== Front-end 
 
-== Java 
-
-== Node
